@@ -21,7 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://yarallymehrine.github.io/Testimonial-Grid/
+  
 ## My process
 
 ### Built with
